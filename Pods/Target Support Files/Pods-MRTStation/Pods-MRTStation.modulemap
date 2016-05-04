@@ -1,0 +1,6 @@
+framework module Pods_MRTStation {
+  umbrella header "Pods-MRTStation-umbrella.h"
+
+  export *
+  module * { export * }
+}
